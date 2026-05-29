@@ -1,8 +1,6 @@
-'''
-body {
-  background-color: #bf615a;
-}
-'''
+<style>
+  background-color: brown;
+</style>
 
 # Hi, I am a tomato
 *No I'm not a potato*
